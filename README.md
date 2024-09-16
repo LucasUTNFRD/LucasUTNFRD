@@ -13,6 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-plain.svg" alt="c" width="40" height="40"/> 
 </p>
 
 <h2 align="center">Estadisticas</h2>
